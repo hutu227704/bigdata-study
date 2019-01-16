@@ -35,4 +35,28 @@
 
 [MapReduce和YARN详解](https://www.jianshu.com/p/07d1ce538ba9)
 
+[大数据压缩](https://www.jianshu.com/p/c8c97a9462ff)
+
 ## Hive
+[HIVE简介及部署](https://www.jianshu.com/p/37c08f4db188)
+
+[HIVE基础语法](https://www.jianshu.com/p/51583a51dc50)
+
+[HIVE基础函数](https://www.jianshu.com/p/f93e543a67b1)
+
+[HIVE基础函数2](https://www.jianshu.com/p/794c18731787)
+
+[HIVE格式存储](https://www.jianshu.com/p/1114dbf07a3b)
+
+## Flume
+[Flume基础](https://www.jianshu.com/p/5be70e753940)
+
+[Flume使用](https://www.jianshu.com/p/2de14305300e)
+
+[Flume使用2](https://www.jianshu.com/p/99241e058e25)
+
+## ZooKeeper
+[ZooKeeper简介](https://www.jianshu.com/p/e66dba964dcb)
+
+## 
+
